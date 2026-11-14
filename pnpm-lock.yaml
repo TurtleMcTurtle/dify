@@ -549,8 +549,8 @@ catalogs:
       specifier: 7.5.0
       version: 7.5.0
     hono:
-      specifier: 4.13.13
-      version: 4.13.13
+      specifier: 4.13.16
+      version: 4.13.16
     html-entities:
       specifier: 2.6.0
       version: 2.6.0
@@ -896,7 +896,7 @@ importers:
         version: link:../packages/tsconfig
       '@hono/node-server':
         specifier: 'catalog:'
-        version: 2.1.5(hono@4.13.13)
+        version: 2.1.5(hono@4.13.16)
       '@types/lockfile':
         specifier: 'catalog:'
         version: 1.0.4
@@ -911,7 +911,7 @@ importers:
         version: 5.0.5(@vitest/browser@5.0.5)(vitest@5.0.5)
       hono:
         specifier: 'catalog:'
-        version: 4.13.13
+        version: 4.13.16
       tsrs:
         specifier: 'catalog:'
         version: 0.18.0-ts7.1.0-dev.20260929
@@ -1023,7 +1023,7 @@ importers:
     dependencies:
       '@hono/node-server':
         specifier: 'catalog:'
-        version: 2.1.5(hono@4.13.13)
+        version: 2.1.5(hono@4.13.16)
       c12:
         specifier: 'catalog:'
         version: 4.0.0-rc.2(dotenv@17.4.2)(giget@3.3.0)(jiti@2.7.0)(magicast@0.5.5)
@@ -1032,7 +1032,7 @@ importers:
         version: 5.0.0
       hono:
         specifier: 'catalog:'
-        version: 4.13.13
+        version: 4.13.16
     devDependencies:
       '@dify/tsconfig':
         specifier: workspace:*
@@ -6925,8 +6925,8 @@ packages:
     resolution: {integrity: sha512-Ox1pJVrDCyGHMG9CFg1tmrRUMRPRsAWYc/PinY0XzJU4K7y7vjNoLKIQ7BR5UJMCxNN8EM1MNDmHWA/B3aZUuw==}
     engines: {node: '>=6'}
 
-  hono@4.13.13:
-    resolution: {integrity: sha512-CQ46U0ZkAGmbT/4UxdzzGJpacP2IeKgY4a5/tOI9AABbpOMfK739wfDXmv1usCk+3RkKj1hQy4/fjhiwa2xlrA==}
+  hono@4.13.16:
+    resolution: {integrity: sha512-AOLOEhvrV+iH92xXCnFr/5+3KjPKcI3xP63XJtX5spAnkznPdHijlIsUTpi7/9EhWqrTCekw5c5zh1K+YsVw7A==}
     engines: {node: '>=16.9.0'}
 
   hookified@1.15.1:
@@ -10132,9 +10132,9 @@ snapshots:
 
   '@hey-api/types@0.1.4': {}
 
-  '@hono/node-server@2.1.5(hono@4.13.13)':
+  '@hono/node-server@2.1.5(hono@4.13.16)':
     dependencies:
-      hono: 4.13.13
+      hono: 4.13.16
 
   '@humanfs/core@0.19.2':
     dependencies:
@@ -14031,7 +14031,7 @@ snapshots:
 
   hex-rgb@4.3.0: {}
 
-  hono@4.13.13: {}
+  hono@4.13.16: {}
 
   hookified@1.15.1: {}
 
@@ -17028,7 +17028,7 @@ time:
   foxact@0.3.12: '2026-09-18T13:19:15.594Z'
   fuse.js@7.5.0: '2026-07-13T17:23:36.705Z'
   happy-dom@20.14.6: '2026-10-08T23:18:02.688Z'
-  hono@4.13.13: '2026-10-04T03:53:48.117Z'
+  hono@4.13.16: '2026-11-01T03:04:37.067Z'
   html-entities@2.6.0: '2025-03-30T15:40:10.885Z'
   html-to-image@1.11.13: '2025-02-14T01:43:48.709Z'
   i18next-resources-for-ts@2.1.1: '2026-09-24T12:53:22.827Z'

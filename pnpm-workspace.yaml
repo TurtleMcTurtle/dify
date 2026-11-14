@@ -202,7 +202,7 @@ catalog:
   foxact: 0.3.12
   fuse.js: 7.5.0
   happy-dom: 20.14.6
-  hono: 4.13.13
+  hono: 4.13.16
   html-entities: 2.6.0
   html-to-image: 1.11.13
   i18next: 26.5.2
