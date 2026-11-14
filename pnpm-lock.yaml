@@ -213,8 +213,8 @@ catalogs:
       specifier: 0.99.0
       version: 0.99.0
     '@hono/node-server':
-      specifier: 2.1.5
-      version: 2.1.5
+      specifier: 2.1.6
+      version: 2.1.6
     '@iconify-json/heroicons':
       specifier: 1.2.3
       version: 1.2.3
@@ -896,7 +896,7 @@ importers:
         version: link:../packages/tsconfig
       '@hono/node-server':
         specifier: 'catalog:'
-        version: 2.1.5(hono@4.13.13)
+        version: 2.1.6(hono@4.13.13)
       '@types/lockfile':
         specifier: 'catalog:'
         version: 1.0.4
@@ -1023,7 +1023,7 @@ importers:
     dependencies:
       '@hono/node-server':
         specifier: 'catalog:'
-        version: 2.1.5(hono@4.13.13)
+        version: 2.1.6(hono@4.13.13)
       c12:
         specifier: 'catalog:'
         version: 4.0.0-rc.2(dotenv@17.4.2)(giget@3.3.0)(jiti@2.7.0)(magicast@0.5.5)
@@ -2674,8 +2674,8 @@ packages:
   '@hey-api/types@0.1.4':
     resolution: {integrity: sha512-thWfawrDIP7wSI9ioT13I5soaaqB5vAPIiZmgD8PbeEVKNrkonc0N/Sjj97ezl7oQgusZmaNphGdMKipPO6IBg==}
 
-  '@hono/node-server@2.1.5':
-    resolution: {integrity: sha512-MgP/I06GdvsilDspMk/qmRzpk8LOUStP6jFAbSRi40W09DhoyUn+Mj7eyKICPqeYKybOjVFLVIAQzvu1bfIa7Q==}
+  '@hono/node-server@2.1.6':
+    resolution: {integrity: sha512-p/KH9MnfNcsm3sR6x4lNgm5j+QN4Et8srKredl9DZfXiyZ1UQ3aQ2YVpFLbqktYN5JI+DB+VZFKM2PqE5hLKjQ==}
     engines: {node: '>=20'}
     peerDependencies:
       hono: ^4 || ^5.0.0-0
@@ -10132,7 +10132,7 @@ snapshots:
 
   '@hey-api/types@0.1.4': {}
 
-  '@hono/node-server@2.1.5(hono@4.13.13)':
+  '@hono/node-server@2.1.6(hono@4.13.13)':
     dependencies:
       hono: 4.13.13
 
@@ -16913,7 +16913,7 @@ time:
   '@formatjs/intl-localematcher@0.9.0': '2026-09-12T16:07:12.757Z'
   '@heroicons/react@2.2.0': '2024-11-18T15:33:27.317Z'
   '@hey-api/openapi-ts@0.99.0': '2026-06-22T06:38:34.730Z'
-  '@hono/node-server@2.1.5': '2026-10-13T08:25:17.433Z'
+  '@hono/node-server@2.1.6': '2026-11-02T10:22:05.655Z'
   '@iconify-json/heroicons@1.2.3': '2025-09-20T05:33:02.364Z'
   '@iconify-json/logos@1.2.12': '2026-08-03T04:14:33.604Z'
   '@iconify-json/ri@1.2.10': '2026-02-10T08:41:46.666Z'
