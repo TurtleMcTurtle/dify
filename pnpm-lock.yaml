@@ -744,8 +744,8 @@ catalogs:
       specifier: 3.19.3
       version: 3.19.3
     undici:
-      specifier: 7.30.0
-      version: 7.30.0
+      specifier: 7.30.1
+      version: 7.30.1
     unist-util-visit:
       specifier: 5.1.0
       version: 5.1.0
@@ -886,7 +886,7 @@ importers:
         version: 1.1.1
       undici:
         specifier: 'catalog:'
-        version: 7.30.0
+        version: 7.30.1
       zod:
         specifier: 'catalog:'
         version: 4.6.7
@@ -8802,8 +8802,8 @@ packages:
   undici-types@8.3.0:
     resolution: {integrity: sha512-j375ScV60dom+YkPFIfTLcOiPxkN/buHz5GobjLhixFuANaNs3C9l4GmrWqejgXWJ7BbJcFYpTEUkS1Ge8bpZQ==}
 
-  undici@7.30.0:
-    resolution: {integrity: sha512-dkrQXeHSaoamnItlYbmzG0wFYrM0ZwDxCIg0A7aKjTyyhh9svRzCNFEzV+Vm05/yehjCzjDZ31KXfGEjYSztDQ==}
+  undici@7.30.1:
+    resolution: {integrity: sha512-03KrMbjIFDWQR5RNPrSw3bd1r12JpyFQl9/yxjUbJtqkjmllqC5lFjZh6ujeuJCKr8EOQvRW872Oy/az+nLYxg==}
     engines: {node: '>=20.18.1'}
 
   unicode-trie@2.0.0:
@@ -12898,7 +12898,7 @@ snapshots:
       parse5: 7.3.0
       parse5-htmlparser2-tree-adapter: 7.1.0
       parse5-parser-stream: 7.1.2
-      undici: 7.30.0
+      undici: 7.30.1
       whatwg-mimetype: 4.0.0
 
   chokidar@5.0.0:
@@ -16325,7 +16325,7 @@ snapshots:
 
   undici-types@8.3.0: {}
 
-  undici@7.30.0: {}
+  undici@7.30.1: {}
 
   unicode-trie@2.0.0:
     dependencies:
@@ -17094,7 +17094,7 @@ time:
   tsrs@0.18.0-ts7.1.0-dev.20260929: '2026-10-19T11:24:43.751Z'
   typescript@7.1.0-beta: '2026-10-20T16:45:47.402Z'
   uglify-js@3.19.3: '2024-08-29T13:49:01.316Z'
-  undici@7.30.0: '2026-09-25T07:15:17.199Z'
+  undici@7.30.1: '2026-10-15T14:18:31.283Z'
   unist-util-visit@5.1.0: '2026-01-22T19:02:58.977Z'
   use-context-selector@2.0.0: '2024-05-06T11:23:59.259Z'
   uuid@14.0.3: '2026-10-10T00:30:19.423Z'
